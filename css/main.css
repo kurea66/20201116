@@ -1,0 +1,11 @@
+b{
+	color:red;
+}
+
+b.1{
+	color:green;
+}
+
+1.b{
+	color:green;
+}
